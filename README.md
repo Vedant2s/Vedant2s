@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant2s" alt="vedant2s" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure in C language**
+- 🌱 I’m currently learning **Data structure in Java language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
